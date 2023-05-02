@@ -8,4 +8,3 @@ INSERT INTO produce VALUES (3, "Mango", "Fruit", 1.05, 9);
 INSERT INTO produce VALUES (4, "Green Pepper", "Vegetable", 1.00, 7);
 INSERT INTO produce VALUES (5, "Cauliflower", "Vegetable", 1.50, 4);
 INSERT INTO produce VALUES (6, "Potato", "Vegetable", 1.25, 10);
-INSERT INTO produce VALUES (6, "Potato", "Vegetable", 1.25, 10);
