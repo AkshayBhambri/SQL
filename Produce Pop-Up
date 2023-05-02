@@ -1,0 +1,11 @@
+--Create a Produce Store/Pop-Up Database
+
+CREATE TABLE produce (id INTEGER PRIMARY KEY, product TEXT, category TEXT, price INTEGER, rating INTEGER);
+
+INSERT INTO produce VALUES (1, "Apple", "Fruit", 0.99, 10);
+INSERT INTO produce VALUES (2, "Banana", "Fruit", 0.49, 8);
+INSERT INTO produce VALUES (3, "Mango", "Fruit", 1.05, 9);
+INSERT INTO produce VALUES (4, "Green Pepper", "Vegetable", 1.00, 7);
+INSERT INTO produce VALUES (5, "Cauliflower", "Vegetable", 1.50, 4);
+INSERT INTO produce VALUES (6, "Potato", "Vegetable", 1.25, 10);
+INSERT INTO produce VALUES (6, "Potato", "Vegetable", 1.25, 10);
